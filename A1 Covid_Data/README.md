@@ -1,9 +1,10 @@
 ## Assignment 1: Data Collection and Curation
 
-The goal of this project was to process and quickly analyze a dataset. This particular dataset is data on COVID variants for countries over time. After cleaning the dataset, analysis is done comparing the amount of virus sequences in the US to Japan. This is to see if there is a difference in how dramatically the countries see a spike in the Omicron variant, which can potentially inform future pandemic responses based on differences in policy between the countries.
+The goal of this project was to process and analyze a dataset. This particular dataset is data on COVID variants for countries over time. After cleaning the dataset, analysis is done comparing the amount of virus sequences in the US to Japan. This is to see if there is a difference in how dramatically the countries see a spike in the Omicron variant, which can potentially inform future pandemic responses based on differences in policy between the countries.
 
 The original data is from this kaggle dataset: https://www.kaggle.com/yamqwe/omicron-covid19-variant-daily-cases
 
+To see the full process of data cleaning and analysis, check out the notebook.
 
 The cleaned data contains these columns:
 * location: str - the country of the data point, only the United States and Japan in the cleaned version
