@@ -1,0 +1,1 @@
+This is a repo for my assignments in the I310D Class. Assignment 1, Data Collection and Curation, is under the A1 Covid_Data folder.
