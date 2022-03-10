@@ -1,6 +1,6 @@
 __Content warning: the Perspective API is designed for use in content moderation, and the dataset contained very “toxic” comments. Some of the comments in this dataset are racist, sexist, ableist, and offensive. Some comments contain profane language. The particular analysis in the dataset is of high scoring and thus comments considered toxic.__
 
-his project involves analysis of the Perspective API. The [A2_bias_eda.ipynb](A2_bias_eda.ipynb) notebook contains the main analysis.
+This project involves analysis of the Perspective API. The [A2_bias_eda.ipynb](A2_bias_eda.ipynb) notebook contains the main analysis.
 
 The [template](Assignment%202%20Template.ipynb) and [pre-labeled dataset](labeled_and_scored_comments.csv) were provided by the class, which contain a template for querying the Perspective API as well as a dataset that contains scores of comments as well as labels attributed to the comments.
 
